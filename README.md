@@ -16,7 +16,14 @@ In order to do so:
 * Add someone who you think has/had been valiable for the evolution of Computer Science
 * Make a pull request
 
+## Rules for contributing 
+The point of this repo is for someone to be able to print directly the file he/she desires and use it for decoration or educational purposes. That's why each personality file (.md) should be:
+* Big letters with name (name - surname) in the beggining
+* Photo included
+* Short description with most valuable information
+
 ### In case you want to add something on an existing individual
 * Open an issue
 * Let's discuss about it there
 * Contribute
+
