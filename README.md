@@ -9,6 +9,7 @@ Find below the list of the current individuals that are included in this reposit
 * Linus Torvalds (Linux creator) 
 * Guido van Rossum (Python creator)
 * Michael Calce (MafiaBoy)
+* Ada Lovelace (First programmer) 
 
 ## Feel free to contibute to this repository
 In order to do so:
