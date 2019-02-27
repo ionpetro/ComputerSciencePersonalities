@@ -10,6 +10,7 @@ Find below the list of the current individuals that are included in this reposit
 * Guido van Rossum (Python creator)
 * Michael Calce (MafiaBoy)
 * Ada Lovelace (First programmer) 
+* Larry Page (Google co-founder)
 
 ## Feel free to contibute to this repository
 In order to do so:
