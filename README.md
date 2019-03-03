@@ -27,5 +27,6 @@ The point of this repo is for someone to be able to print directly the file he/s
 ### In case you want to add something on an existing individual
 * Open an issue
 * Let's discuss about it there
+* Make a pull request
 * Contribute
 
