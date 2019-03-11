@@ -14,6 +14,7 @@ Find below the list of the current individuals that are included in this reposit
 * Tim Berners Lee (World Wide Web inventor)
 * Mark Zuckerberg (Facebook founder)
 * Bill Gates (Microsoft founder)
+* Alan Turing (BOMBE - Turing Machine)
 
 ## Feel free to contibute to this repository
 In order to do so:
