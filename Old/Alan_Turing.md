@@ -1,6 +1,6 @@
 # Alan Turing
 
-<img src="../images/alan.png" width="350" height="250">
+<img src="../images/alan.png" width="320" height="320">
 
 English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoritical biologist. Father of theoritical computer science and AI. 
 * Created BOMBE in order to crack Enigma and defeat the Nazis in WW2. 
