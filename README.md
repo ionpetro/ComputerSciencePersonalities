@@ -13,6 +13,7 @@ Find below the list of the current individuals that are included in this reposit
 * Larry Page (Google co-founder)
 * Tim Berners Lee (World Wide Web inventor)
 * Mark Zuckerberg (Facebook founder)
+* Grace Hopper (Programming Languages)
 
 ## Feel free to contibute to this repository
 In order to do so:
