@@ -1,6 +1,10 @@
 # GRACE HOOPER
 
+<<<<<<< HEAD
 <img src="../images/hooper.png" width="150" height="300" />
+=======
+<img src="../images/hooper.png" width="300" height="300" />
+>>>>>>> 0821ca208c30bd39148ec4dd7a5cd617a742372c
 
 ### The programming languages inventor
 
