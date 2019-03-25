@@ -16,6 +16,7 @@ Find below the list of the current individuals that are included in this reposit
 * Bill Gates (Microsoft founder)
 * Alan Turing (BOMBE - Turing Machine)
 * Grace Hopper (Programming Languages)
+* Donald Knuth (TeX - father of Algorithm analysis)
 
 
 ## Feel free to contibute to this repository
