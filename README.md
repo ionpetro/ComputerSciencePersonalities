@@ -37,3 +37,6 @@ The point of this repo is for someone to be able to print directly the file he/s
 * Make a pull request
 * Contribute
 
+### To be added
+
+* Charles Babbage
