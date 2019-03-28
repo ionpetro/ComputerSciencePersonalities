@@ -1,6 +1,6 @@
 # Bill Gates
 
-<img src="../images/Gates.jpg">
+<img src="../images/Gates.jpg" width="250" height="280">
 
 William Henry Gates is an American business magnate, investor, author, philanthropist, and humanitarian. He is best known as the principal founder of Microsoft Corporation. Gates is one of the best-known entrepreneurs of the personal computer revolution.
 

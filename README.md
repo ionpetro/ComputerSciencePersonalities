@@ -5,8 +5,8 @@
 ## A valuable collection of Big Computer Science Personalities. 
 Find below the list of the current individuals that are included in this repository.
 
-* Kevin Mitnick (social engineer)
-* Linus Torvalds (Linux creator) 
+* [Kevin Mitnick (social engineer)](Modern/Kevin_Mitnick.md)
+* Linus Torvalds (Linux creator)
 * Guido van Rossum (Python creator)
 * Michael Calce (MafiaBoy)
 * Ada Lovelace (First programmer) 
@@ -17,6 +17,7 @@ Find below the list of the current individuals that are included in this reposit
 * Alan Turing (BOMBE - Turing Machine)
 * Grace Hopper (Programming Languages)
 * Donald Knuth (TeX - father of Algorithm analysis)
+
 
 ## Feel free to contibute to this repository
 In order to do so:
@@ -36,3 +37,6 @@ The point of this repo is for someone to be able to print directly the file he/s
 * Make a pull request
 * Contribute
 
+### To be added
+
+* Charles Babbage
