@@ -6,17 +6,17 @@
 Find below the list of the current individuals that are included in this repository.
 
 * [Kevin Mitnick (social engineer)](Modern/Kevin_Mitnick.md)
-* Linus Torvalds (Linux creator)
-* Guido van Rossum (Python creator)
-* Michael Calce (MafiaBoy)
-* Ada Lovelace (First programmer) 
-* Larry Page (Google co-founder)
-* Tim Berners Lee (World Wide Web inventor)
-* Mark Zuckerberg (Facebook founder)
-* Bill Gates (Microsoft founder)
-* Alan Turing (BOMBE - Turing Machine)
-* Grace Hopper (Programming Languages)
-* Donald Knuth (TeX - father of Algorithm analysis)
+* [Linus Torvalds (Linux creator)](Modern/Linus_Torvalds.md)
+* [Guido van Rossum (Python creator)](Modern/Guido_van_Rossum.md)
+* [Michael Calce (MafiaBoy)](Modern/Michael_Calce.md)
+* [Ada Lovelace (First programmer)](Old/Ada_Lovelace.md) 
+* [Larry Page (Google co-founder)](Modern/Larry_Page.md)
+* [Tim Berners Lee (World Wide Web inventor)](Modern/Tim_Berners_Lee.md)
+* [Mark Zuckerberg (Facebook founder)](Modern/Mark_Zuckerberg.md)
+* [Bill Gates (Microsoft founder)](Modern/Bill_Gates.md)
+* [Alan Turing (BOMBE - Turing Machine)](Old/Alan_Turing.md)
+* [Grace Hopper (Programming Languages)](Modern/Grace_Hooper.md)
+* [Donald Knuth (TeX - father of Algorithm analysis)](Modern/Donald_Knuth.md)
 
 
 ## Feel free to contibute to this repository
