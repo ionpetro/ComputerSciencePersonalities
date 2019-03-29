@@ -1,6 +1,6 @@
 # ComputerSciencePersonalities
 
-<img src="images/computerscience.png" width="700" height="400" />
+<img src="images/computer-science-header.jpg" width="600" height="200" />
 
 ## A valuable collection of Big Computer Science Personalities. 
 Find below the list of the current individuals that are included in this repository.
@@ -31,12 +31,12 @@ The point of this repo is for someone to be able to print directly the file he/s
 * Photo included (Face photo is mandatory)
 * Short description with most valuable information
 
-### In case you want to add something on an existing individual
+## In case you want to add something on an existing individual
 * Open an issue
 * Let's discuss about it there
 * Make a pull request
 * Contribute
 
-### To be added
+## To be added
 
 * Charles Babbage
