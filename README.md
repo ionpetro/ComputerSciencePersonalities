@@ -1,6 +1,6 @@
 # ComputerSciencePersonalities
 
-<img src="images/computer-science-header.jpg" width="600" height="200" />
+<img src="images/computer-science-header.jpg" width="700" height="300" />
 
 ## A valuable collection of Big Computer Science Personalities. 
 Find below the list of the current individuals that are included in this repository.
