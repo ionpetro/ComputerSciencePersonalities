@@ -17,6 +17,7 @@ Find below the list of the current individuals that are included in this reposit
 * [Alan Turing (BOMBE - Turing Machine)](Old/Alan_Turing.md)
 * [Grace Hopper (Programming Languages)](Modern/Grace_Hooper.md)
 * [Donald Knuth (TeX - father of Algorithm analysis)](Modern/Donald_Knuth.md)
+* [Bjarne Stroustrup (C++ creator)](Modern/Bjarne_Stroustrup.md)
 
 
 ## Feel free to contibute to this repository
