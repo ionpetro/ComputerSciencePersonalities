@@ -1,5 +1,7 @@
 # ComputerSciencePersonalities
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 <img src="images/computer-science-header.jpg" width="700" height="300" />
 
 ## A valuable collection of Big Computer Science Personalities. 
