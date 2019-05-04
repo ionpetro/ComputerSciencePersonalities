@@ -43,3 +43,4 @@ The point of this repo is for someone to be able to print directly the file he/s
 ## To be added
 
 * Charles Babbage
+* J. Presper Eckert
